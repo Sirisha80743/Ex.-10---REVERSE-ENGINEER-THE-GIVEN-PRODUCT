@@ -31,8 +31,11 @@
 
 ## Input:
 
+<img width="1112" height="672" alt="image" src="https://github.com/user-attachments/assets/7d7090b6-c02e-49dc-8ef7-068da6653512" />
+
 ### Output:
 
+<img width="1105" height="678" alt="image" src="https://github.com/user-attachments/assets/489f0e4e-aff2-439e-b825-9870e77b2f51" />
 
 ### Name: SIRISHA P
 ### Register Number: 212224040321
